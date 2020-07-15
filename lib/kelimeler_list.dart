@@ -67,7 +67,7 @@ class _KelimelerListState extends State<KelimelerList> {
                   setState(() {randomNumber= randoms;
 
                   });
-                }, child: Text("Başka kelimeye geç,")),
+                }, child: Text("Başka kelimeye geç")),
 
               ],
               mainAxisAlignment: MainAxisAlignment.center,
